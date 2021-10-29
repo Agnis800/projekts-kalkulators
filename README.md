@@ -3,14 +3,14 @@
 # Skaitļi
 
 ## Apraksts
-	Programma saskaita masīva elementus un sareizina summu ar lietotāja ievadītu skaitli. 
+  Programma saskaita masīva elementus un sareizina summu ar lietotāja ievadītu skaitli. 
   Tad reizinājumu sadala ar skaitli, atkarībā no if funkcijas. Masīvu ievada lietotājs.
 ## Galvenās funkcijas
-	- Ievadīt masīvu
+  - Ievadīt masīvu
   - Saskaitīt masīvu
   - Sareizināt summu ar lietotāja ievadītu skaitli
   - IF funkcija, kas nosaka, ar kuru skaitli dalīt summas reizinājumu
-	- Izvada dalījumu.
+  - Izvada dalījumu
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library
