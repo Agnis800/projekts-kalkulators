@@ -1,4 +1,4 @@
-# projekts-karte
+# projekts-kred-tkarte
 
 # Kredītkartes numura apstiprināšana
 
