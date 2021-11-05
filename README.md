@@ -1,16 +1,13 @@
-# projekts-skait-i
+# projekts-kalkulators
 
-# Skaitļi
+# Kalkulators
 
 ## Apraksts
-  Programma saskaita masīva elementus un sareizina summu ar lietotāja ievadītu skaitli. 
-  Tad reizinājumu sadala ar skaitli, atkarībā no if funkcijas. Masīvu ievada lietotājs.
+
+Programma saskaita, atņem, sareizina vai sadala divus lietotāja ievadītus skaitļus.
+  
 ## Galvenās funkcijas
-  - Ievadīt masīvu
-  - Saskaitīt masīvu
-  - Sareizināt summu ar lietotāja ievadītu skaitli
-  - IF funkcija, kas nosaka, ar kuru skaitli dalīt summas reizinājumu
-  - Izvada dalījumu
+  - Veic matemātiskās operācijas ar 2 skaitļiem.
 ## Izmantotās tehnoloģijas
   - C++
   - SFML library
