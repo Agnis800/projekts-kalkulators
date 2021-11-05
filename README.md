@@ -1,13 +1,14 @@
-# projekts-kalkulators
+# projekts-karte
 
-# Kalkulators
+# Kredītkartes numura apstiprināšana
 
 ## Apraksts
 
-Programma saskaita, atņem, sareizina vai sadala divus lietotāja ievadītus skaitļus.
+Programma nosaka, vai lietotāja ievadītais kredītkartes numurs ir derīgs vai nederīgs.
   
 ## Galvenās funkcijas
-  - Veic matemātiskās operācijas ar 2 skaitļiem.
+   - ievada kredītkartes numuru
+   - nosaka, vai kredītkartes numurs ir derīgs vai nederīgs
 ## Izmantotās tehnoloģijas
   - C++
   - SFML library
