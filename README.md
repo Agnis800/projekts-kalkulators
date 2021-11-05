@@ -7,7 +7,7 @@
 Programma nosaka, vai lietotāja ievadītais kredītkartes numurs ir derīgs vai nederīgs.
   
 ## Galvenās funkcijas
-   - ievada kredītkartes numuru
+   - lietotājs ievada kredītkartes numuru
    - nosaka, vai kredītkartes numurs ir derīgs vai nederīgs
 ## Izmantotās tehnoloģijas
   - C++
