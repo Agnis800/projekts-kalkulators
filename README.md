@@ -14,3 +14,4 @@ Programma nosaka, vai lietotāja ievadītais kredītkartes numurs ir derīgs vai
   - SFML library
 ## Izmantotie avoti
   - [SFML dokumentācija](https://www.sfml-dev.org/style.php)
+  - https://www.geeksforgeeks.org/luhn-algorithm/
